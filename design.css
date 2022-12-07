@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(240, 229, 238);
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0%;
+    background-position: 0%;
+}
+
+
+
+div h2{
+    font-size: 20px;
+    color: rgb(29, 15, 92);
+    padding: 5px;
+    outline-color: rgb(247, 18, 18);
+    outline-width: 10px;
+
+    font-variant: inherit;
+}
+hr{
+
+    size: 20px;
+    color: rgb(29, 15, 92);
+    font-size: 10px;
+    outline-color: rgb(24, 15, 68);
+}
+div table{
+    font-size: 20px;
+}
+footer{
+    
+    font-size: 20px;
+    font-style: inherit;
+    color: rgb(255, 255, 255);
+    text-indent: 2px;
+    background-color: rgb(6, 6, 53);
+    background-position: 0%;
+    background-size: contain;
+    margin-top: 1%;
+}
+h4{
+    color: rgb(233, 10, 10);
+}
